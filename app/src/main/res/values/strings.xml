@@ -1,0 +1,10 @@
+ <resources>
+    <string name="app_name">Lab3</string>
+     <string-array name ="tmnt_char">
+         <item> Leonardo </item>
+         <item> Donatello </item>
+         <item> Raphael  </item>
+         <item> Michelangelo  </item>
+
+     </string-array>
+</resources>
